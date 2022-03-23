@@ -1,2 +1,2 @@
 # Bondi
-buiding website using BootStrap V5
+buiding a website using BootStrap V5
